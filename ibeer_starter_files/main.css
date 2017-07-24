@@ -61,7 +61,7 @@ img {
     text-align: center;
     padding: 60px 0 120px 0;
     font-size: 4em;
-    background-image: url(/Users/evanlcoakley/The-Iron-Yard/Week-One/Day-4/ibeer_starter_files/ibeer_starter_files/img/header-img.jpg);
+    background-image: url(./img/header-img.jpg);
     background-size: cover;
     background-position: right bottom;
 }
